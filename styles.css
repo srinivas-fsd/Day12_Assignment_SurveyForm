@@ -1,0 +1,9 @@
+.required:after {
+  content:" *";
+  color: red;
+}
+
+.bold-label
+{
+  font-weight: bold;
+}
